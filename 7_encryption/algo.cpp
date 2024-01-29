@@ -1,3 +1,5 @@
+//Обработка символьных строк
+
 #include <fstream>
 #include <iostream>
 #include <string.h>
